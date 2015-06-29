@@ -1,11 +1,11 @@
 # Demo application for Rapidfire Gem
-  Rapidfire gem can be found [here](https://github.com/code-mancers/rapidfire)
+  Used Rapidfire gem to develop survey sample demo application.[here](https://railssurvey.herokuapp.com/).
 
 # Setup
 
 ```
-$ git clone git@github.com:code-mancers/rapidfire-demo
-$ cd rapidfire-demo
+$ git clone https://github.com/gowrinaidu/survey.git
+$ cd survey
 
 $ # create a database.yml file in config folder
 
